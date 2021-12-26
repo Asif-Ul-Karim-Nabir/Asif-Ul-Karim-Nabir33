@@ -13,8 +13,6 @@ Skills: REACT JS / JS / HTML / CSS / MongoDB / Node JS / Firebase
 
 ![Profile views](https://gpvc.arturio.dev/Asif-Ul-Karim-Nabir33)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Asif-Ul-Karim-Nabir33)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Ul-Karim-Nabir33)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Asif-Ul-Karim-Nabir33&show_icons=true&count_private=true)  
