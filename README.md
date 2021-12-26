@@ -1,9 +1,9 @@
-### Hi there 👋, I'm Asif-Ul Karim Nabir.
+## Hi there 👋, I'm Asif-Ul Karim Nabir.
 #### Junior Web Developer || Front-End Developer || React Developer || MERN Stack Developer
 I am a Junior Web Developer/MERN Stack Developer. I am a student by profession but I am more interested towards programming. I started learning web development from 1st July,2021.
 I love to learn & explore new things & passionate about programming. I am willing to accept challenges to improve myself better & develop my skills.
 
-Skills: REACT / JS / HTML / CSS / MongoDB / Node JS / Firebase
+Skills: REACT JS / JS / HTML / CSS / MongoDB / Node JS / Firebase
 
 - 🌱 I’m currently learning React 
 - 💬 Ask me about Web Development 
